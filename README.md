@@ -53,5 +53,5 @@ pip install pandas scikit-learn matplotlib numpy
 
 ## 📧 Author
 
-Abhishek Gupta  
-Biomedical Engineering | Pyrax Polymars  
+Shreya Gupta  
+Biomedical Engineering   
